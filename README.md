@@ -1,4 +1,4 @@
 # Programacion De Objetos 1
 ## Jonathan Puyol
 ### UNAHUR
-![logo UNAHUR](./)
+![logo ](./FF7.jpg)
